@@ -1,5 +1,5 @@
 # Hi there 👋, This is [NITHISH](https://nithishpujari.github.io/)
-#### I am Student, Learner, Studying B.TECH, A passionate self-taught Developer.
+#### I am Student, Learner, Pursued B.TECH at GMR Instiute of technology, A passionate self-taught Developer.
 
 - 🔭 I’m currently working on PYTHON
 - 🌱 I’m currently learning Advance Python
