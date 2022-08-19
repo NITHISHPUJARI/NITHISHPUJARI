@@ -18,7 +18,7 @@
 <a href="#"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" alt="Visual Studio code" width="40" height="40"/> </a>
 
 ## Social Info :
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' bg="white">](https://github.com/NITHISHPUJARI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://NITHISHPUJARI.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/NITHISHPUJARI) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/myself_nithish)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="color:blue">](https://github.com/NITHISHPUJARI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://NITHISHPUJARI.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/NITHISHPUJARI) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/myself_nithish)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NITHISHPUJARI)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NITHISHPUJARI&show_icons=true)
