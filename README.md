@@ -18,7 +18,26 @@
 <a href="#"> <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" alt="Visual Studio code" width="40" height="40"/> </a>
 
 ## Social Info :
-[<img src='https://img.icons8.com/stickers/344/github.png' alt='github' height='40' style="color:blue;">](https://github.com/NITHISHPUJARI)  [<img src='https://img.icons8.com/fluency/344/domain.png' alt='website' height='40'>](https://NITHISHPUJARI.github.io/)  [<img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/NITHISHPUJARI) [<img src='https://img.icons8.com/fluency/344/twitter.png' alt='twitter' height='40'>](https://twitter.com/myself_nithish)  
+[<img src='https://img.icons8.com/stickers/344/github.png' alt='github' height='40' style="color:blue;">](https://github.com/NITHISHPUJARI)  [<img src='https://img.icons8.com/fluency/344/domain.png' alt='website' height='40'>](https://NITHISHPUJARI.github.io/)  [<img src='https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/NITHISHPUJARI) [<img src='https://img.icons8.com/fluency/344/twitter.png' alt='twitter' height='40'>](https://twitter.com/myself_nithish)  [<img src='
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=myselfnithish" target="_blank">Follow on LinkedIn</a>' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/myselfnithish/)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NITHISHPUJARI)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NITHISHPUJARI&show_icons=true)
