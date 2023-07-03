@@ -1,12 +1,12 @@
 # Hi there 👋, This is [NITHISH](https://nithishpujari.github.io/)
 #### I am Student, Learner, Pursued B.TECH at GMR Instiute of technology, A passionate self-taught Developer.
 
-- 🔭 I’m currently working on PYTHON
-- 🌱 I’m currently learning Advance Python
+- 🔭 I’m currently working on Embedded Systems
+- 🌱 I’m currently learning Accelerated Embedded Systems
 - ⚡ I learn any technology in 3 Steps:<br>
      - Learn Basics<br>
      - Start mini project<br>
-     - Learn more from Stackoverflow and others
+     - Learn more from ChatGPT, Stackoverflow and others
 ## Technologies :
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
