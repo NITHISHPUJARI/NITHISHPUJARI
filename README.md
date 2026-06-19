@@ -150,39 +150,39 @@ Superpower  : Bridging silicon-level hardware with cutting-edge AI
 
 ## ⚡ &nbsp;`< Tech Arsenal />`&nbsp; ⚡
 
-### 🧠 AI & Generative Intelligence
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=robot&logoColor=white)
-![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_DB-F59E0B?style=for-the-badge&logo=databricks&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM_Optimization-EC4899?style=for-the-badge&logo=huggingface&logoColor=white)
+### 🧠 AI &amp; Generative Intelligence
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=robot&logoColor=white" alt="Agentic AI"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Microsoft_Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Foundry"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Prompt_Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Vector_DB-F59E0B?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/LLM_Optimization-EC4899?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM"/></a>
 
-### 🔩 Embedded & Systems Engineering
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-333333?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00AEF0?style=for-the-badge&logo=freertos&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### 🔩 Embedded &amp; Systems Engineering
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Embedded_C-333333?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="Embedded C"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/FreeRTOS-00AEF0?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/></a>
 
-### 🛠 Software & Cloud
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🛠 Software &amp; Cloud
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/></a>
 
-### 🔌 Protocols & Hardware Interfaces
-![UART](https://img.shields.io/badge/UART-6D28D9?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-7C3AED?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-8B5CF6?style=for-the-badge)
-![HAL](https://img.shields.io/badge/HAL_Driver-A78BFA?style=for-the-badge)
-![GDB](https://img.shields.io/badge/GDB_Debug-C4B5FD?style=for-the-badge)
-![SDLC](https://img.shields.io/badge/SDLC-DDD6FE?style=for-the-badge&logoColor=black)
+### 🔌 Protocols &amp; Hardware Interfaces
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/UART-6D28D9?style=for-the-badge" alt="UART"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/I2C-7C3AED?style=for-the-badge" alt="I2C"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/SPI-8B5CF6?style=for-the-badge" alt="SPI"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/HAL_Driver-A78BFA?style=for-the-badge" alt="HAL"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/GDB_Debug-C4B5FD?style=for-the-badge" alt="GDB"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/SDLC-DDD6FE?style=for-the-badge&logoColor=black" alt="SDLC"/></a>
 
 </div>
 
@@ -331,13 +331,13 @@ IoT entrance system using temperature sensors for automated entry control — gr
 
 ## 🌟 &nbsp;`< Core Strengths />`&nbsp; 🌟
 
-![Collaboration](https://img.shields.io/badge/🤝_Collaboration-4F46E5?style=flat-square)
-![Communication](https://img.shields.io/badge/🗣_Communication-7C3AED?style=flat-square)
-![Leadership](https://img.shields.io/badge/👑_Leadership-9333EA?style=flat-square)
-![Teamwork](https://img.shields.io/badge/🏋_Teamwork-A855F7?style=flat-square)
-![Critical Thinking](https://img.shields.io/badge/🧠_Critical_Thinking-C084FC?style=flat-square)
-![Adaptability](https://img.shields.io/badge/🔄_Adaptability-DDD6FE?style=flat-square&logoColor=black)
-![Analytical Skills](https://img.shields.io/badge/📐_Analytical_Skills-EDE9FE?style=flat-square&logoColor=black)
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🤝_Collaboration-4F46E5?style=flat-square" alt="Collaboration"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🗣_Communication-7C3AED?style=flat-square" alt="Communication"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/👑_Leadership-9333EA?style=flat-square" alt="Leadership"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🏋_Teamwork-A855F7?style=flat-square" alt="Teamwork"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🧠_Critical_Thinking-C084FC?style=flat-square" alt="Critical Thinking"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🔄_Adaptability-DDD6FE?style=flat-square&logoColor=black" alt="Adaptability"/></a>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/📐_Analytical_Skills-EDE9FE?style=flat-square&logoColor=black" alt="Analytical Skills"/></a>
 
 </div>
 
