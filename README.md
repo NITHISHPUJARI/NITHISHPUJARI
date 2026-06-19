@@ -6,12 +6,12 @@
 
 <!-- ░░░  HERO BANNER  ░░░ -->
 <a href="https://github.com/NITHISHPUJARI">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030318,40:0f0f3d,70:1e1b6e,100:7c3aed&height=260&section=header&text=NITHISH%20KUMAR&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=%E2%9A%A1%20Agentic%20AI%20Engineer%20%20%7C%20%20%F0%9F%94%A7%20Embedded%20Systems%20%20%7C%20%20%F0%9F%A7%A0%20LLM%20Specialist&descAlignY=62&descSize=15&animation=fadeIn&stroke=a78bfa&strokeWidth=2&rotate=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030318,30:0f0f3d,65:1e1b6e,100:7c3aed&height=240&section=header&text=NITHISH%20KUMAR&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%7C%20Embedded%20Systems%20%7C%20LLM%20Specialist&descAlignY=60&descSize=16&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%"/>
 </a>
 
 <!-- ░░░  DYNAMIC TYPING  ░░░ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=750&height=50&lines=🤖+Designing+AI+agents+for+an+%2480B%2B+enterprise+platform;⚙️+ARM+Cortex-M+%7C+FreeRTOS+%7C+BareMetal+C%2FC%2B%2B;🧠+Prompt+Engineering+%7C+Vector+DB+%7C+Microsoft+Foundry;🔌+UART+%7C+SPI+%7C+I2C+%7C+HAL+%7C+STM32+%7C+Linux+Drivers;🚀+Silicon+meets+Intelligence+—+one+commit+at+a+time" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=750&height=50&lines=%F0%9F%A4%96+Designing+AI+agents+for+%2480B%2B%2B+enterprise+platform%3B%E2%9A%99%EF%B8%8F+ARM+Cortex-M+%7C+FreeRTOS+%7C+BareMetal+C%2FC%2B%2B%3B%F0%9F%A7%A0+Prompt+Engineering+%7C+Vector+DB+%7C+Microsoft+Foundry%3B%F0%9F%94%8C+UART+%7C+SPI+%7C+I2C+%7C+HAL+%7C+STM32+%7C+Linux+Drivers%3B%F0%9F%9A%80+Silicon+meets+Intelligence+%E2%80%94+one+commit+at+a+time" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -300,17 +300,15 @@ Competed in the **Drone Voyage** inter-college spotlight event organized by STEP
 
 ---
 
-<!-- ░░░  CONTRIBUTION SNAKE  ░░░ -->
+<!-- ░░░  GITHUB TROPHIES  ░░░ -->
 
 <div align="center">
 
-## 🐍 &nbsp;Contribution Snake
+## 🏅 &nbsp;GitHub Trophies
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITHISHPUJARI/NITHISHPUJARI/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITHISHPUJARI/NITHISHPUJARI/output/github-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/NITHISHPUJARI/NITHISHPUJARI/output/github-snake-dark.svg" width="97%"/>
-</picture>
+<a href="https://github.com/NITHISHPUJARI">
+<img src="https://github-profile-trophy.vercel.app/?username=NITHISHPUJARI&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
