@@ -278,7 +278,7 @@ IoT entrance system using temperature sensors for automated entry control — gr
 
 🥇 **Google Cloud Certified**
 **Professional Machine Learning Engineer**
-`[View Credential 🔗](https://github.com/NITHISHPUJARI)`
+[View Credential 🔗](https://www.credly.com/badges/a7e17122-d929-4d03-ba4d-5978b7ae770e/public_url)
 
 </td>
 <td align="center" width="50%">
@@ -299,9 +299,11 @@ IoT entrance system using temperature sensors for automated entry control — gr
 </td>
 <td align="center" width="50%">
 
-🏅 **LinkedIn Learning**
-**Arduino Foundations + PCB Design (EAGLE)**
-*Nov 2020 · Triple Certification*
+🏅 **LinkedIn Learning — Nov 2020**
+
+[📜 Arduino Foundations](https://www.linkedin.com/learning/certificates/59e60d453c900ce64ecda715ef771c48cb6d256d2cdb968072ac775745de6655)
+[📜 Arduino: Analog Interfacing](https://www.linkedin.com/learning/certificates/a89db22e8cd328d624367ac62956506ddde5943ba88acfbd1fdcc35490cfa074)
+[📜 PCB Design with EAGLE](https://www.linkedin.com/learning/certificates/782886381b035642c53140ef54908d22f72b9a8ca0e40576cf28f69b21fefe8a)
 
 </td>
 </tr>
