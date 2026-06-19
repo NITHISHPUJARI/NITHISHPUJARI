@@ -5,12 +5,12 @@
 <div align="center">
 
 <!-- ▓▓▓  ANIMATED HEADER BANNER  ▓▓▓ -->
+<a href="https://github.com/NITHISHPUJARI" rel="noopener">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,30:1a1a5e,60:2d2db8,100:7c3aed&height=220&section=header&text=PUJARI%20NITHISH%20KUMAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Embedded%20and%20AI%20Engineer%20%7C%20Microsoft%20Foundry%20%7C%20Agentic%20AI&descAlignY=58&descSize=16&animation=fadeIn&stroke=a78bfa&strokeWidth=1" width="100%"/>
+</a>
 
 <!-- ▓▓▓  TYPING ANIMATION  ▓▓▓ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%A4%96+Agentic+AI+Systems+Engineer;%F0%9F%94%A7+Embedded+%26+ARM+Cortex-M+Developer;%F0%9F%A7%A0+LLM+%26+Prompt+Engineering+Specialist;%E2%9A%A1+Microsoft+Foundry+%7C+Azure+AI+Studio;%F0%9F%9A%80+Building+the+Future+with+AI+%2B+Embedded" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%A4%96+Agentic+AI+Systems+Engineer;%F0%9F%94%A7+Embedded+%26+ARM+Cortex-M+Developer;%F0%9F%A7%A0+LLM+%26+Prompt+Engineering+Specialist;%E2%9A%A1+Microsoft+Foundry+%7C+Azure+AI+Studio;%F0%9F%9A%80+Building+the+Future+with+AI+%2B+Embedded" alt="Typing SVG" />
 
 <br/>
 
@@ -367,7 +367,9 @@ IoT entrance system using temperature sensors for automated entry control — gr
 
 <div align="center">
 
+<a href="https://github.com/NITHISHPUJARI" rel="noopener">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d2db8,100:0d0d2b&height=120&section=footer&text=Let%27s%20Connect%20and%20Build%20Something%20Extraordinary&fontSize=16&fontColor=c4b5fd&fontAlignY=60&animation=twinkling" width="100%"/>
+</a>
 
 **`⚡ Turning silicon into intelligence — one line at a time ⚡`**
 
