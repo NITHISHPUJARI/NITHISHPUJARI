@@ -300,9 +300,9 @@ Competed in the **Drone Voyage** inter-college spotlight event organized by STEP
 ## 🐍 &nbsp;Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITHISHPUJARI/NITHISHPUJARI/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITHISHPUJARI/NITHISHPUJARI/output/github-snake.svg"/>
-  <a href="#!"><img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/NITHISHPUJARI/NITHISHPUJARI/output/github-snake-dark.svg" width="97%"/></a>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NITHISHPUJARI/NITHISHPUJARI/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NITHISHPUJARI/NITHISHPUJARI/output/github-contribution-grid-snake.svg"/>
+  <a href="#!"><img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/NITHISHPUJARI/NITHISHPUJARI/output/github-contribution-grid-snake-dark.svg" width="97%"/></a>
 </picture>
 
 </div>
