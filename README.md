@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ▓▓▓  ANIMATED HEADER BANNER  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,30:1a1a5e,60:2d2db8,100:7c3aed&height=220&section=header&text=PUJARI%20NITHISH%20KUMAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Embedded%20%26%20AI%20Engineer%20%7C%20Microsoft%20Foundry%20%7C%20Agentic%20AI&descAlignY=58&descSize=16&animation=fadeIn&stroke=a78bfa&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,30:1a1a5e,60:2d2db8,100:7c3aed&height=220&section=header&text=PUJARI%20NITHISH%20KUMAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Embedded%20and%20AI%20Engineer%20%7C%20Microsoft%20Foundry%20%7C%20Agentic%20AI&descAlignY=58&descSize=16&animation=fadeIn&stroke=a78bfa&strokeWidth=1" width="100%"/>
 
 <!-- ▓▓▓  TYPING ANIMATION  ▓▓▓ -->
 <a href="https://git.io/typing-svg">
@@ -367,7 +367,7 @@ IoT entrance system using temperature sensors for automated entry control — gr
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d2db8,100:0d0d2b&height=120&section=footer&text=Let%27s%20Connect%20%26%20Build%20Something%20Extraordinary&fontSize=16&fontColor=c4b5fd&fontAlignY=60&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d2db8,100:0d0d2b&height=120&section=footer&text=Let%27s%20Connect%20and%20Build%20Something%20Extraordinary&fontSize=16&fontColor=c4b5fd&fontAlignY=60&animation=twinkling" width="100%"/>
 
 **`⚡ Turning silicon into intelligence — one line at a time ⚡`**
 
