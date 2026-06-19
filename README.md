@@ -5,9 +5,7 @@
 <div align="center">
 
 <!-- ░░░  HERO BANNER  ░░░ -->
-<a href="https://github.com/NITHISHPUJARI">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030318,30:0f0f3d,65:1e1b6e,100:7c3aed&height=240&section=header&text=NITHISH%20KUMAR&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%7C%20Embedded%20Systems%20%7C%20LLM%20Specialist&descAlignY=60&descSize=16&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%"/>
-</a>
 
 <!-- ░░░  DYNAMIC TYPING  ░░░ -->
 <br/>
@@ -28,18 +26,16 @@
   <img src="https://img.shields.io/badge/GitHub-NITHISHPUJARI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://github.com/NITHISHPUJARI">
-  <img src="https://komarev.com/ghpvc/?username=NITHISHPUJARI&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=NITHISHPUJARI&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
 
 <!-- ░░░  LOCATION & STATUS PILLS  ░░░ -->
-<img src="https://img.shields.io/badge/📍_Bengaluru,_India-1e1b4b?style=flat-square&logoColor=white" alt="Location"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru%2C_India-1e1b4b?style=flat-square&logoColor=white" alt="Location"/>
 &nbsp;
-<img src="https://img.shields.io/badge/💼_Open_to_Opportunities-10B981?style=flat-square" alt="Status"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_Opportunities-10B981?style=flat-square" alt="Status"/>
 &nbsp;
-<img src="https://img.shields.io/badge/⏰_IST_(UTC%2B5:30)-7c3aed?style=flat-square" alt="Timezone"/>
+<img src="https://img.shields.io/badge/%E2%8F%B0_IST_(UTC%2B5%3A30)-7c3aed?style=flat-square" alt="Timezone"/>
 
 </div>
 
@@ -70,7 +66,7 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/$80B+-Annual_Platform_Scale-FFD700?style=for-the-badge&logo=microsoftazure&logoColor=black" alt="scale"/>
+<img src="https://img.shields.io/badge/%2480B%2B-Annual_Platform_Scale-FFD700?style=for-the-badge&logo=microsoftazure&logoColor=black" alt="scale"/>
 <br/><sub>Enterprise AI Impact</sub>
 </td>
 <td align="center" width="25%">
@@ -122,39 +118,69 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ PRESENT │
-│                                                                              │
-│  🏢  ACCENTURE SOLUTIONS PVT LTD — Bengaluru, KA                           │
-│      Packaged App Development Associate                                      │
-│      ▸ Agentic AI on Microsoft Foundry for $80B+ platform                  │
-│      ▸ Generative AI + Vector DB semantic search pipelines                  │
-│      ▸ LLM Prompt Engineering — accuracy, safety, latency                  │
-│      ▸ System validation & defect lifecycle on Azure DevOps                 │
-│      ▸ Stack: C# · .NET · Python · Azure · M365 Copilot · Agile            │
-│                                                                              │
-│  2023 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  2024 │
-│                                                                              │
-│  🔧  SKILL LYNC × NASSCOM — Bengaluru, KA                                  │
-│      Embedded Software Developer Trainee                                     │
-│      ▸ ARM Cortex-M: GPIO, Timers, Interrupts, BareMetal C                 │
-│      ▸ FreeRTOS: Tasks, Queues, Semaphores, Mutexes                        │
-│      ▸ Linux Device Drivers: Kernel & User Space                            │
-│      ▸ ISO 26262 Automotive Safety Standard compliance                      │
-│      ▸ Stack: C/C++ · STM32 · GDB · Git · HAL                             │
-│                                                                              │
-│  2019 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  2019 │
-│                                                                              │
-│  🤖  WINGFOTECH × AAKAR (IIT BOMBAY) — Hyderabad, TG                       │
-│      Summer Embedded Software Intern                                         │
-│      ▸ ATMega328p embedded C and Robotics systems                           │
-│      ▸ IoT automation with IFTTT, Blink, Google Assistant                  │
-│      ▸ Stack: C · ATMega328p · IFTTT · IoT Integration                     │
-│                                                                              │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="left">
+
+<table width="100%" style="border-collapse: collapse; border-spacing: 0; border: none; margin: 10px 0;">
+  <!-- Job 1 -->
+  <tr style="border: none;">
+    <td width="22%" valign="top" align="center" style="border: none; border-right: 2px solid #7c3aed; padding: 10px 20px 20px 10px;">
+      <font size="4"><b>2024 – Present</b></font><br/>
+      <img src="https://img.shields.io/badge/Accenture-000000?style=flat-square&logo=accenture&logoColor=purple" alt="Accenture"/><br/>
+      <font color="#8b949e"><i>Bengaluru, KA</i></font>
+    </td>
+    <td width="78%" valign="top" style="border: none; padding: 10px 10px 20px 20px;">
+      <font size="4"><b>Packaged App Development Associate</b></font><br/>
+      <b>Accenture Solutions Private Limited</b><br/><br/>
+      <ul>
+        <li><b>Agentic AI Workflows:</b> Designed and deployed autonomous Agentic AI systems using Microsoft Foundry (formerly Azure AI Studio), automating complex workflows for a high-scale platform circulating over <b>$80 billion</b> annually.</li>
+        <li><b>Generative AI & Data Retrieval:</b> Implemented Generative AI solutions integrated with Vector Databases to enable semantic search and efficient context management for large-scale datasets.</li>
+        <li><b>Prompt Engineering:</b> Applied advanced Prompt Engineering techniques to optimize Large Language Model (LLM) performance, ensuring high accuracy, reliability, and safety.</li>
+        <li><b>System Validation:</b> Conducted system-level validation and managed the full lifecycle of software defects using Azure DevOps.</li>
+      </ul>
+      <br/>
+      <code>C#</code> &nbsp; <code>.NET</code> &nbsp; <code>Python</code> &nbsp; <code>Azure</code> &nbsp; <code>M365 Copilot</code> &nbsp; <code>Agile</code>
+    </td>
+  </tr>
+  <!-- Job 2 -->
+  <tr style="border: none;">
+    <td width="22%" valign="top" align="center" style="border: none; border-right: 2px solid #7c3aed; padding: 20px 20px 20px 10px;">
+      <font size="4"><b>2023 – 2024</b></font><br/>
+      <img src="https://img.shields.io/badge/Skill_Lync-1E3A8A?style=flat-square" alt="Skill Lync"/><br/>
+      <font color="#8b949e"><i>Bengaluru, KA</i></font>
+    </td>
+    <td width="78%" valign="top" style="border: none; padding: 20px 10px 20px 20px;">
+      <font size="4"><b>Embedded Software Developer Trainee</b></font><br/>
+      <b>Skill Lync × NASSCOM</b><br/><br/>
+      <ul>
+        <li><b>Embedded System Specialisation:</b> Focused on Embedded systems, Microcontroller architecture, RTOS, and compliance to ISO 26262 automotive safety standards.</li>
+        <li><b>Embedded Programming:</b> Emphasized ARM Cortex-M architecture, GPIO, timers, interrupts, BareMetal programming, Linux driver development, and system programming using C.</li>
+        <li><b>Hardware Collaboration:</b> Acquired collaborative hardware design and schematic reading abilities.</li>
+      </ul>
+      <br/>
+      <code>C/C++</code> &nbsp; <code>STM32</code> &nbsp; <code>FreeRTOS</code> &nbsp; <code>ARM Cortex-M</code> &nbsp; <code>GDB</code> &nbsp; <code>Git</code> &nbsp; <code>HAL</code>
+    </td>
+  </tr>
+  <!-- Job 3 -->
+  <tr style="border: none;">
+    <td width="22%" valign="top" align="center" style="border: none; border-right: 2px solid #7c3aed; padding: 20px 20px 10px 10px;">
+      <font size="4"><b>May 2019</b></font><br/>
+      <img src="https://img.shields.io/badge/Wingfotech-000000?style=flat-square" alt="Wingfotech"/><br/>
+      <font color="#8b949e"><i>Hyderabad, TG</i></font>
+    </td>
+    <td width="78%" valign="top" style="border: none; padding: 20px 10px 10px 20px;">
+      <font size="4"><b>Summer Embedded Software Intern</b></font><br/>
+      <b>Wingfotech × Aakar (IIT Bombay)</b><br/><br/>
+      <ul>
+        <li><b>Robotics & Control:</b> Acquired experience working on projects utilizing embedded C and robotics. Developed a comprehensive understanding of designing automation systems.</li>
+        <li><b>IoT Automation:</b> Gained experience with platforms such as Blink and Google Assistant to control devices. Developed robust problem-solving and communication abilities.</li>
+      </ul>
+      <br/>
+      <code>C</code> &nbsp; <code>ATMega328p</code> &nbsp; <code>IFTTT</code> &nbsp; <code>IoT Integration</code>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -165,41 +191,41 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
 ## 🛸 &nbsp;Tech Arsenal
 
 ### 🧠 &nbsp;Artificial Intelligence & LLM Engineering
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Microsoft%20Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Foundry"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Vector%20DB-F59E0B?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/LLM%20Optimization-EC4899?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/M365%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="M365 Copilot"/></a>
+<img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Microsoft%20Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Foundry"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Vector%20DB-F59E0B?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB"/>
+<img src="https://img.shields.io/badge/LLM%20Optimization-EC4899?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM"/>
+<img src="https://img.shields.io/badge/M365%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="M365 Copilot"/>
 
 ### 🔩 &nbsp;Embedded & Real-Time Systems
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="Embedded C"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/FreeRTOS-00AEF0?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Cortex-M"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/BareMetal-333333?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="BareMetal"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Linux%20Drivers-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Drivers"/></a>
+<img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="Embedded C"/>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/>
+<img src="https://img.shields.io/badge/FreeRTOS-00AEF0?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/>
+<img src="https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Cortex-M"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
+<img src="https://img.shields.io/badge/BareMetal-333333?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="BareMetal"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Linux%20Drivers-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Drivers"/>
 
 ### 🔌 &nbsp;Protocols & Interfaces
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/UART-6D28D9?style=for-the-badge" alt="UART"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/I2C-7C3AED?style=for-the-badge" alt="I2C"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/SPI-8B5CF6?style=for-the-badge" alt="SPI"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/HAL%20Driver-A78BFA?style=for-the-badge" alt="HAL"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/GDB%20Debug-C4B5FD?style=for-the-badge" alt="GDB"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/NVIC%20%2F%20DMA-DDD6FE?style=for-the-badge&logoColor=black" alt="NVIC"/></a>
+<img src="https://img.shields.io/badge/UART-6D28D9?style=for-the-badge" alt="UART"/>
+<img src="https://img.shields.io/badge/I2C-7C3AED?style=for-the-badge" alt="I2C"/>
+<img src="https://img.shields.io/badge/SPI-8B5CF6?style=for-the-badge" alt="SPI"/>
+<img src="https://img.shields.io/badge/HAL%20Driver-A78BFA?style=for-the-badge" alt="HAL"/>
+<img src="https://img.shields.io/badge/GDB%20Debug-C4B5FD?style=for-the-badge" alt="GDB"/>
+<img src="https://img.shields.io/badge/NVIC%20%2F%20DMA-DDD6FE?style=for-the-badge&logoColor=black" alt="NVIC"/>
 
 ### 🛠 &nbsp;Software, Cloud & DevOps
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/STM32Cube%20IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32Cube"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Agile%20%2F%20SDLC-FF6B35?style=for-the-badge" alt="Agile"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/>
+<img src="https://img.shields.io/badge/STM32Cube%20IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32Cube"/>
+<img src="https://img.shields.io/badge/Agile%20%2F%20SDLC-FF6B35?style=for-the-badge" alt="Agile"/>
 
 </div>
 
@@ -218,8 +244,8 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
 <td width="50%" valign="top">
 
 ### 🌐 &nbsp;Enterprise Agentic AI Platform
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🏦_Scale-$80B%2B_Annual_Circulation-FFD700?style=flat-square&logo=microsoft-azure"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Status-Production-00C851?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/🏦_Scale-$80B%2B_Annual_Circulation-FFD700?style=flat-square&logo=microsoft-azure" alt="Scale"/>
+<img src="https://img.shields.io/badge/Status-Production-00C851?style=flat-square" alt="Status"/>
 
 Designed end-to-end **Agentic AI systems** on Microsoft Foundry that autonomously handle complex financial data workflows. Integrated **Vector Databases** for semantic search over millions of records with real-time context retrieval.
 
@@ -231,8 +257,8 @@ Applied **Prompt Engineering** to eliminate hallucination and ensure LLM respons
 <td width="50%" valign="top">
 
 ### 🤖 &nbsp;ARM Robotics Navigation System
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/⚙️_MCU-STM32G070RB_ARM_Cortex--M0%2B-03234B?style=flat-square&logo=stmicroelectronics"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Type-BareMetal-333?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/⚙️_MCU-STM32G070RB_ARM_Cortex--M0%2B-03234B?style=flat-square&logo=stmicroelectronics" alt="MCU"/>
+<img src="https://img.shields.io/badge/Type-BareMetal-333?style=flat-square" alt="Type"/>
 
 Full embedded system featuring **Bluetooth wireless control**, RFID-secured access, ultrasonic obstacle detection, and multi-mode navigation (line-follow, distance-based) — all coordinated through the STM32 HAL on bare-metal C.
 
@@ -244,7 +270,7 @@ Full embedded system featuring **Bluetooth wireless control**, RFID-secured acce
 <td width="50%" valign="top">
 
 ### 🌡 &nbsp;COVID Safety Thermal Access System
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🏥_Purpose-Health_%26_Safety_Automation-10B981?style=flat-square&logo=arduino"/></a>
+<img src="https://img.shields.io/badge/🏥_Purpose-Health_%26_Safety_Automation-10B981?style=flat-square&logo=arduino" alt="Purpose"/>
 
 IoT entrance gate that uses a **thermal sensor** to measure body temperature at doorways. Access is granted/denied automatically — no human touchpoint needed. Built during COVID for a real health-safety use case.
 
@@ -254,8 +280,8 @@ IoT entrance gate that uses a **thermal sensor** to measure body temperature at 
 <td width="50%" valign="top">
 
 ### 🚁 &nbsp;Drone Voyage — Competition Winner
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🏆_Result-3rd_Place-FFD700?style=flat-square"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Event-STEP_CONE_at_GMRIT-7C3AED?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/🏆_Result-3rd_Place-FFD700?style=flat-square" alt="Result"/>
+<img src="https://img.shields.io/badge/Event-STEP_CONE_at_GMRIT-7C3AED?style=flat-square" alt="Event"/>
 
 Competed in the **Drone Voyage** inter-college spotlight event organized by STEP CONE at GMR Institute of Technology — securing **3rd place** in autonomous drone control and navigation challenges.
 
@@ -273,55 +299,18 @@ Competed in the **Drone Voyage** inter-college spotlight event organized by STEP
 
 ## 📊 &nbsp;GitHub Analytics
 
-<a href="https://github.com/NITHISHPUJARI">
 <img src="https://github-readme-stats.vercel.app/api?username=NITHISHPUJARI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&border_radius=16&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/NITHISHPUJARI">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=NITHISHPUJARI&theme=tokyonight&hide_border=true&background=0d0d2b&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&border_radius=16&sideLabels=c4b5fd&dates=a78bfa" width="48%" alt="GitHub Streak"/>
-</a>
 
 <br/>
 
-<a href="https://github.com/NITHISHPUJARI">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHISHPUJARI&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=a78bfa&text_color=c4b5fd&border_radius=16" width="38%" alt="Top Languages"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/NITHISHPUJARI">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NITHISHPUJARI&theme=tokyonight&utcOffset=5.5" width="48%" alt="Productive Time"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/NITHISHPUJARI">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NITHISHPUJARI&theme=tokyo-night&hide_border=true&bg_color=0d0d2b&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=312e81" width="97%" alt="Activity Graph"/>
-</a>
-
-</div>
-
----
-
-<!-- ░░░  PROFILE SUMMARY CARDS  ░░░ -->
-
-<div align="center">
-
-## 📈 &nbsp;Profile Deep Dive
-
-<a href="https://github.com/NITHISHPUJARI">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHISHPUJARI&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=a78bfa&text_color=c4b5fd&border_radius=16" width="32%" alt="Top Languages"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NITHISHPUJARI&theme=tokyonight" width="32%" alt="Repos Per Language"/>
-</a>
-<a href="https://github.com/NITHISHPUJARI">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NITHISHPUJARI&theme=tokyonight" width="32%" alt="Most Commit Language"/>
-</a>
-<a href="https://github.com/NITHISHPUJARI">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NITHISHPUJARI&theme=tokyonight" width="32%" alt="Stats"/>
-</a>
 
-<a href="https://github.com/NITHISHPUJARI">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NITHISHPUJARI&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time"/>
-</a>
-<a href="https://github.com/NITHISHPUJARI">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NITHISHPUJARI&theme=tokyonight" width="49%" alt="Profile Details"/>
-</a>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NITHISHPUJARI&theme=tokyo-night&hide_border=true&bg_color=0d0d2b&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=312e81" width="97%" alt="Activity Graph"/>
 
 </div>
 
@@ -350,7 +339,7 @@ Competed in the **Drone Voyage** inter-college spotlight event organized by STEP
 <td align="center" width="50%">
 
 ### 🎯 Accenture Tech Expressway
-**C++ & UNIX Stream · 2024**
+**C++ &amp; UNIX Stream · 2024**
 
 <img src="https://img.shields.io/badge/Score-87%25-00C851?style=for-the-badge" alt="87%"/>
 <br/><i>Graduated with Distinction</i>
@@ -363,7 +352,7 @@ Competed in the **Drone Voyage** inter-college spotlight event organized by STEP
 ### 📋 NASSCOM Certified
 **Embedded Systems · Skill-Lync · 2024**
 
-<img src="https://img.shields.io/badge/Score-71.7%25-7C3AED?style=for-the-badge" alt="71.7%"/>
+<a href="https://skill-lync.com/certification/master/g07k85mhvfxp6qjt" target="_blank"><img src="https://img.shields.io/badge/Score-71.7%25-7C3AED?style=for-the-badge" alt="71.7%"/></a>
 <br/><i>Accelerated Career Program — On Campus</i>
 
 </td>
@@ -424,8 +413,8 @@ B.Tech — Electrical & Electronics Engineering
 </td>
 <td align="center" width="50%">
 
-📚 **Skill Lync × NASSCOM**
-Masters Certification — Embedded Systems
+📚 [**Skill Lync × NASSCOM**](https://skill-lync.com/certification/master/g07k85mhvfxp6qjt)
+[Masters Certification — Embedded Systems](https://skill-lync.com/certification/master/g07k85mhvfxp6qjt)
 `Score: 71.7%`
 
 </td>
@@ -456,13 +445,13 @@ Class X — SSC
 
 ## 🌟 &nbsp;Core Strengths
 
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🤝%20Collaboration-4F46E5?style=flat-square" alt="Collaboration"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🗣%20Communication-7C3AED?style=flat-square" alt="Communication"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/👑%20Leadership-9333EA?style=flat-square" alt="Leadership"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🏋%20Teamwork-A855F7?style=flat-square" alt="Teamwork"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🧠%20Critical%20Thinking-C084FC?style=flat-square" alt="Critical Thinking"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/🔄%20Adaptability-DDD6FE?style=flat-square&logoColor=black" alt="Adaptability"/></a>
-<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/📐%20Analytical%20Skills-EDE9FE?style=flat-square&logoColor=black" alt="Analytical Skills"/></a>
+<img src="https://img.shields.io/badge/🤝%20Collaboration-4F46E5?style=flat-square" alt="Collaboration"/>
+<img src="https://img.shields.io/badge/🗣%20Communication-7C3AED?style=flat-square" alt="Communication"/>
+<img src="https://img.shields.io/badge/👑%20Leadership-9333EA?style=flat-square" alt="Leadership"/>
+<img src="https://img.shields.io/badge/🏋%20Teamwork-A855F7?style=flat-square" alt="Teamwork"/>
+<img src="https://img.shields.io/badge/🧠%20Critical%20Thinking-C084FC?style=flat-square" alt="Critical Thinking"/>
+<img src="https://img.shields.io/badge/🔄%20Adaptability-DDD6FE?style=flat-square&logoColor=black" alt="Adaptability"/>
+<img src="https://img.shields.io/badge/📐%20Analytical%20Skills-EDE9FE?style=flat-square&logoColor=black" alt="Analytical Skills"/>
 
 </div>
 
@@ -474,20 +463,20 @@ Class X — SSC
 
 ## 💡 &nbsp;Engineering Philosophy
 
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│   "The best engineers understand both the bit and the billion.      │
-│    I write code that runs on 48MHz silicon and thinks at LLM scale. │
-│    Precision at the register. Intelligence at the prompt."           │
-│                                                                      │
-│   My 3-Step Learning System:                                         │
-│   ❶  Master the fundamentals — no shortcuts                         │
-│   ❷  Build something real — constraints are your best teacher       │
-│   ❸  Push limits with community & AI — compounding growth           │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+<br/>
+
+> *"The best engineers understand both the bit and the billion."*
+>
+> I write code that runs on **48MHz silicon** and thinks at **LLM scale**.
+> Precision at the register. Intelligence at the prompt.
+
+<br/>
+
+| Step | Principle |
+|:---:|---|
+| **❶** | Master the fundamentals — no shortcuts, no abstractions until you understand what's beneath |
+| **❷** | Build something real — hardware constraints are your sharpest teacher |
+| **❸** | Push limits with community & AI — that's where compounding growth happens |
 
 </div>
 
@@ -497,12 +486,10 @@ Class X — SSC
 
 <div align="center">
 
-<a href="https://github.com/NITHISHPUJARI">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,40:4f46e5,70:2d2db8,100:030318&height=140&section=footer&text=Let%27s%20Connect%20and%20Build%20Something%20Extraordinary&fontSize=15&fontColor=c4b5fd&fontAlignY=55&animation=twinkling" width="100%"/>
-</a>
 
 **`⚡ Turning silicon into intelligence — one commit at a time ⚡`**
 
-<img src="https://img.shields.io/badge/Made%20with-❤️%20and%20Embedded%20C%20%2B%20AI-7c3aed?style=flat-square" alt="Made with love"/>
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20Embedded%20C%20%2B%20AI-7c3aed?style=flat-square" alt="Made with love"/>
 
 </div>
