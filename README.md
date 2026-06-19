@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ░░░  HERO BANNER  ░░░ -->
-<a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:030318,30:0f0f3d,65:1e1b6e,100:7c3aed&height=240&section=header&text=NITHISH%20KUMAR&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%7C%20Embedded%20Systems%20%7C%20LLM%20Specialist&descAlignY=60&descSize=16&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%"/></a>
+<a href="#!"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:030318,30:0f0f3d,65:1e1b6e,100:7c3aed&height=240&section=header&text=NITHISH%20KUMAR&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%7C%20Embedded%20Systems%20%7C%20LLM%20Specialist&descAlignY=60&descSize=16&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%"/></a>
 
 <!-- ░░░  DYNAMIC TYPING  ░░░ -->
 <br/>
@@ -26,16 +26,16 @@
   <img src="https://img.shields.io/badge/GitHub-NITHISHPUJARI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a><img src="https://komarev.com/ghpvc/?username=NITHISHPUJARI&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/></a>
+<a href="#!"><img src="https://komarev.com/ghpvc/?username=NITHISHPUJARI&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/></a>
 
 <br/><br/>
 
 <!-- ░░░  LOCATION & STATUS PILLS  ░░░ -->
-<a><img src="https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru%2C_India-1e1b4b?style=flat-square&logoColor=white" alt="Location"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/%F0%9F%93%8D_Bengaluru%2C_India-1e1b4b?style=flat-square&logoColor=white" alt="Location"/></a>
 &nbsp;
-<a><img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_Opportunities-10B981?style=flat-square" alt="Status"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/%F0%9F%92%BC_Open_to_Opportunities-10B981?style=flat-square" alt="Status"/></a>
 &nbsp;
-<a><img src="https://img.shields.io/badge/%E2%8F%B0_IST_(UTC%2B5%3A30)-7c3aed?style=flat-square" alt="Timezone"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/%E2%8F%B0_IST_(UTC%2B5%3A30)-7c3aed?style=flat-square" alt="Timezone"/></a>
 
 </div>
 
@@ -66,19 +66,19 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
 <table>
 <tr>
 <td align="center" width="25%">
-<a><img src="https://img.shields.io/badge/%2480B%2B-Annual_Platform_Scale-FFD700?style=for-the-badge&logo=microsoftazure&logoColor=black" alt="scale"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/%2480B%2B-Annual_Platform_Scale-FFD700?style=for-the-badge&logo=microsoftazure&logoColor=black" alt="scale"/></a>
 <br/><sub>Enterprise AI Impact</sub>
 </td>
 <td align="center" width="25%">
-<a><img src="https://img.shields.io/badge/87%25-Accenture_C%2B%2B_Assessment-00C851?style=for-the-badge" alt="score"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/87%25-Accenture_C%2B%2B_Assessment-00C851?style=for-the-badge" alt="score"/></a>
 <br/><sub>Tech Expressway Score</sub>
 </td>
 <td align="center" width="25%">
-<a><img src="https://img.shields.io/badge/2%2B_Years-Professional_Experience-7C3AED?style=for-the-badge" alt="exp"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/2%2B_Years-Professional_Experience-7C3AED?style=for-the-badge" alt="exp"/></a>
 <br/><sub>Industry Experience</sub>
 </td>
 <td align="center" width="25%">
-<a><img src="https://img.shields.io/badge/6%2B-Certifications_%26_Awards-A78BFA?style=for-the-badge" alt="certs"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/6%2B-Certifications_%26_Awards-A78BFA?style=for-the-badge" alt="certs"/></a>
 <br/><sub>Credentials Earned</sub>
 </td>
 </tr>
@@ -125,7 +125,7 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
   <tr style="border: none;">
     <td width="22%" valign="top" align="center" style="border: none; border-right: 2px solid #7c3aed; padding: 10px 20px 20px 10px;">
       <font size="4"><b>2024 – Present</b></font><br/>
-      <a><img src="https://img.shields.io/badge/Accenture-000000?style=flat-square&logo=accenture&logoColor=purple" alt="Accenture"/></a><br/>
+      <a href="#!"><img src="https://img.shields.io/badge/Accenture-000000?style=flat-square&logo=accenture&logoColor=purple" alt="Accenture"/></a><br/>
       <font color="#8b949e"><i>Bengaluru, KA</i></font>
     </td>
     <td width="78%" valign="top" style="border: none; padding: 10px 10px 20px 20px;">
@@ -145,7 +145,7 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
   <tr style="border: none;">
     <td width="22%" valign="top" align="center" style="border: none; border-right: 2px solid #7c3aed; padding: 20px 20px 20px 10px;">
       <font size="4"><b>2023 – 2024</b></font><br/>
-      <a><img src="https://img.shields.io/badge/Skill_Lync-1E3A8A?style=flat-square" alt="Skill Lync"/></a><br/>
+      <a href="#!"><img src="https://img.shields.io/badge/Skill_Lync-1E3A8A?style=flat-square" alt="Skill Lync"/></a><br/>
       <font color="#8b949e"><i>Bengaluru, KA</i></font>
     </td>
     <td width="78%" valign="top" style="border: none; padding: 20px 10px 20px 20px;">
@@ -164,7 +164,7 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
   <tr style="border: none;">
     <td width="22%" valign="top" align="center" style="border: none; border-right: 2px solid #7c3aed; padding: 20px 20px 10px 10px;">
       <font size="4"><b>May 2019</b></font><br/>
-      <a><img src="https://img.shields.io/badge/Wingfotech-000000?style=flat-square" alt="Wingfotech"/></a><br/>
+      <a href="#!"><img src="https://img.shields.io/badge/Wingfotech-000000?style=flat-square" alt="Wingfotech"/></a><br/>
       <font color="#8b949e"><i>Hyderabad, TG</i></font>
     </td>
     <td width="78%" valign="top" style="border: none; padding: 20px 10px 10px 20px;">
@@ -191,41 +191,41 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
 ## 🛸 &nbsp;Tech Arsenal
 
 ### 🧠 &nbsp;Artificial Intelligence & LLM Engineering
-<a><img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI"/></a>
-<a><img src="https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/></a>
-<a><img src="https://img.shields.io/badge/Microsoft%20Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Foundry"/></a>
-<a><img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/></a>
-<a><img src="https://img.shields.io/badge/Vector%20DB-F59E0B?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB"/></a>
-<a><img src="https://img.shields.io/badge/LLM%20Optimization-EC4899?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM"/></a>
-<a><img src="https://img.shields.io/badge/M365%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="M365 Copilot"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Microsoft%20Foundry-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Foundry"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Prompt%20Engineering-10B981?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Vector%20DB-F59E0B?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/LLM%20Optimization-EC4899?style=for-the-badge&logo=huggingface&logoColor=white" alt="LLM"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/M365%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="M365 Copilot"/></a>
 
 ### 🔩 &nbsp;Embedded & Real-Time Systems
-<a><img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="Embedded C"/></a>
-<a><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/></a>
-<a><img src="https://img.shields.io/badge/FreeRTOS-00AEF0?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/></a>
-<a><img src="https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Cortex-M"/></a>
-<a><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/></a>
-<a><img src="https://img.shields.io/badge/BareMetal-333333?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="BareMetal"/></a>
-<a><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/></a>
-<a><img src="https://img.shields.io/badge/Linux%20Drivers-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Drivers"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="Embedded C"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/FreeRTOS-00AEF0?style=for-the-badge&logo=freertos&logoColor=white" alt="FreeRTOS"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM Cortex-M"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/BareMetal-333333?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="BareMetal"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Linux%20Drivers-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Drivers"/></a>
 
 ### 🔌 &nbsp;Protocols & Interfaces
-<a><img src="https://img.shields.io/badge/UART-6D28D9?style=for-the-badge" alt="UART"/></a>
-<a><img src="https://img.shields.io/badge/I2C-7C3AED?style=for-the-badge" alt="I2C"/></a>
-<a><img src="https://img.shields.io/badge/SPI-8B5CF6?style=for-the-badge" alt="SPI"/></a>
-<a><img src="https://img.shields.io/badge/HAL%20Driver-A78BFA?style=for-the-badge" alt="HAL"/></a>
-<a><img src="https://img.shields.io/badge/GDB%20Debug-C4B5FD?style=for-the-badge" alt="GDB"/></a>
-<a><img src="https://img.shields.io/badge/NVIC%20%2F%20DMA-DDD6FE?style=for-the-badge&logoColor=black" alt="NVIC"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/UART-6D28D9?style=for-the-badge" alt="UART"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/I2C-7C3AED?style=for-the-badge" alt="I2C"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/SPI-8B5CF6?style=for-the-badge" alt="SPI"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/HAL%20Driver-A78BFA?style=for-the-badge" alt="HAL"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/GDB%20Debug-C4B5FD?style=for-the-badge" alt="GDB"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/NVIC%20%2F%20DMA-DDD6FE?style=for-the-badge&logoColor=black" alt="NVIC"/></a>
 
 ### 🛠 &nbsp;Software, Cloud & DevOps
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-<a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/></a>
-<a><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></a>
-<a><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/></a>
-<a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
-<a><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/></a>
-<a><img src="https://img.shields.io/badge/STM32Cube%20IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32Cube"/></a>
-<a><img src="https://img.shields.io/badge/Agile%20%2F%20SDLC-FF6B35?style=for-the-badge" alt="Agile"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/STM32Cube%20IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32Cube"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Agile%20%2F%20SDLC-FF6B35?style=for-the-badge" alt="Agile"/></a>
 
 </div>
 
@@ -244,8 +244,8 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
 <td width="50%" valign="top">
 
 ### 🌐 &nbsp;Enterprise Agentic AI Platform
-<a><img src="https://img.shields.io/badge/🏦_Scale-$80B%2B_Annual_Circulation-FFD700?style=flat-square&logo=microsoft-azure" alt="Scale"/></a>
-<a><img src="https://img.shields.io/badge/Status-Production-00C851?style=flat-square" alt="Status"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/🏦_Scale-$80B%2B_Annual_Circulation-FFD700?style=flat-square&logo=microsoft-azure" alt="Scale"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Status-Production-00C851?style=flat-square" alt="Status"/></a>
 
 Designed end-to-end **Agentic AI systems** on Microsoft Foundry that autonomously handle complex financial data workflows. Integrated **Vector Databases** for semantic search over millions of records with real-time context retrieval.
 
@@ -257,8 +257,8 @@ Applied **Prompt Engineering** to eliminate hallucination and ensure LLM respons
 <td width="50%" valign="top">
 
 ### 🤖 &nbsp;ARM Robotics Navigation System
-<a><img src="https://img.shields.io/badge/⚙️_MCU-STM32G070RB_ARM_Cortex--M0%2B-03234B?style=flat-square&logo=stmicroelectronics" alt="MCU"/></a>
-<a><img src="https://img.shields.io/badge/Type-BareMetal-333?style=flat-square" alt="Type"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/⚙️_MCU-STM32G070RB_ARM_Cortex--M0%2B-03234B?style=flat-square&logo=stmicroelectronics" alt="MCU"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Type-BareMetal-333?style=flat-square" alt="Type"/></a>
 
 Full embedded system featuring **Bluetooth wireless control**, RFID-secured access, ultrasonic obstacle detection, and multi-mode navigation (line-follow, distance-based) — all coordinated through the STM32 HAL on bare-metal C.
 
@@ -270,7 +270,7 @@ Full embedded system featuring **Bluetooth wireless control**, RFID-secured acce
 <td width="50%" valign="top">
 
 ### 🌡 &nbsp;COVID Safety Thermal Access System
-<a><img src="https://img.shields.io/badge/🏥_Purpose-Health_%26_Safety_Automation-10B981?style=flat-square&logo=arduino" alt="Purpose"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/🏥_Purpose-Health_%26_Safety_Automation-10B981?style=flat-square&logo=arduino" alt="Purpose"/></a>
 
 IoT entrance gate that uses a **thermal sensor** to measure body temperature at doorways. Access is granted/denied automatically — no human touchpoint needed. Built during COVID for a real health-safety use case.
 
@@ -280,8 +280,8 @@ IoT entrance gate that uses a **thermal sensor** to measure body temperature at 
 <td width="50%" valign="top">
 
 ### 🚁 &nbsp;Drone Voyage — Competition Winner
-<a><img src="https://img.shields.io/badge/🏆_Result-3rd_Place-FFD700?style=flat-square" alt="Result"/></a>
-<a><img src="https://img.shields.io/badge/Event-STEP_CONE_at_GMRIT-7C3AED?style=flat-square" alt="Event"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/🏆_Result-3rd_Place-FFD700?style=flat-square" alt="Result"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Event-STEP_CONE_at_GMRIT-7C3AED?style=flat-square" alt="Event"/></a>
 
 Competed in the **Drone Voyage** inter-college spotlight event organized by STEP CONE at GMR Institute of Technology — securing **3rd place** in autonomous drone control and navigation challenges.
 
@@ -299,18 +299,18 @@ Competed in the **Drone Voyage** inter-college spotlight event organized by STEP
 
 ## 📊 &nbsp;GitHub Analytics
 
-<a><img src="https://github-readme-stats.vercel.app/api?username=NITHISHPUJARI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&border_radius=16&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/></a>
-<a><img src="https://github-readme-streak-stats.herokuapp.com?user=NITHISHPUJARI&theme=tokyonight&hide_border=true&background=0d0d2b&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&border_radius=16&sideLabels=c4b5fd&dates=a78bfa" width="48%" alt="GitHub Streak"/></a>
+<a href="#!"><img src="https://github-readme-stats.vercel.app/api?username=NITHISHPUJARI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&border_radius=16&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/></a>
+<a href="#!"><img src="https://github-readme-streak-stats.herokuapp.com?user=NITHISHPUJARI&theme=tokyonight&hide_border=true&background=0d0d2b&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&border_radius=16&sideLabels=c4b5fd&dates=a78bfa" width="48%" alt="GitHub Streak"/></a>
 
 <br/>
 
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHISHPUJARI&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=a78bfa&text_color=c4b5fd&border_radius=16" width="32%" alt="Top Languages"/></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NITHISHPUJARI&theme=tokyonight" width="32%" alt="Repos Per Language"/></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NITHISHPUJARI&theme=tokyonight" width="32%" alt="Most Commit Language"/></a>
+<a href="#!"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHISHPUJARI&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=a78bfa&text_color=c4b5fd&border_radius=16" width="32%" alt="Top Languages"/></a>
+<a href="#!"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NITHISHPUJARI&theme=tokyonight" width="32%" alt="Repos Per Language"/></a>
+<a href="#!"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NITHISHPUJARI&theme=tokyonight" width="32%" alt="Most Commit Language"/></a>
 
 <br/>
 
-<a><img src="https://github-readme-activity-graph.vercel.app/graph?username=NITHISHPUJARI&theme=tokyo-night&hide_border=true&bg_color=0d0d2b&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=312e81" width="97%" alt="Activity Graph"/></a>
+<a href="#!"><img src="https://github-readme-activity-graph.vercel.app/graph?username=NITHISHPUJARI&theme=tokyo-night&hide_border=true&bg_color=0d0d2b&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=312e81" width="97%" alt="Activity Graph"/></a>
 
 </div>
 
@@ -341,7 +341,7 @@ Competed in the **Drone Voyage** inter-college spotlight event organized by STEP
 ### 🎯 Accenture Tech Expressway
 **C++ &amp; UNIX Stream · 2024**
 
-<a><img src="https://img.shields.io/badge/Score-87%25-00C851?style=for-the-badge" alt="87%"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Score-87%25-00C851?style=for-the-badge" alt="87%"/></a>
 <br/><i>Graduated with Distinction</i>
 
 </td>
@@ -445,13 +445,13 @@ Class X — SSC
 
 ## 🌟 &nbsp;Core Strengths
 
-<a><img src="https://img.shields.io/badge/🤝%20Collaboration-4F46E5?style=flat-square" alt="Collaboration"/></a>
-<a><img src="https://img.shields.io/badge/🗣%20Communication-7C3AED?style=flat-square" alt="Communication"/></a>
-<a><img src="https://img.shields.io/badge/👑%20Leadership-9333EA?style=flat-square" alt="Leadership"/></a>
-<a><img src="https://img.shields.io/badge/🏋%20Teamwork-A855F7?style=flat-square" alt="Teamwork"/></a>
-<a><img src="https://img.shields.io/badge/🧠%20Critical%20Thinking-C084FC?style=flat-square" alt="Critical Thinking"/></a>
-<a><img src="https://img.shields.io/badge/🔄%20Adaptability-DDD6FE?style=flat-square&logoColor=black" alt="Adaptability"/></a>
-<a><img src="https://img.shields.io/badge/📐%20Analytical%20Skills-EDE9FE?style=flat-square&logoColor=black" alt="Analytical Skills"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/🤝%20Collaboration-4F46E5?style=flat-square" alt="Collaboration"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/🗣%20Communication-7C3AED?style=flat-square" alt="Communication"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/👑%20Leadership-9333EA?style=flat-square" alt="Leadership"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/🏋%20Teamwork-A855F7?style=flat-square" alt="Teamwork"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/🧠%20Critical%20Thinking-C084FC?style=flat-square" alt="Critical Thinking"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/🔄%20Adaptability-DDD6FE?style=flat-square&logoColor=black" alt="Adaptability"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/📐%20Analytical%20Skills-EDE9FE?style=flat-square&logoColor=black" alt="Analytical Skills"/></a>
 
 </div>
 
@@ -486,10 +486,10 @@ Class X — SSC
 
 <div align="center">
 
-<a><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,40:4f46e5,70:2d2db8,100:030318&height=140&section=footer&text=Let%27s%20Connect%20and%20Build%20Something%20Extraordinary&fontSize=15&fontColor=c4b5fd&fontAlignY=55&animation=twinkling" width="100%"/></a>
+<a href="#!"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,40:4f46e5,70:2d2db8,100:030318&height=140&section=footer&text=Let%27s%20Connect%20and%20Build%20Something%20Extraordinary&fontSize=15&fontColor=c4b5fd&fontAlignY=55&animation=twinkling" width="100%"/></a>
 
 **`⚡ Turning silicon into intelligence — one commit at a time ⚡`**
 
-<a><img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20Embedded%20C%20%2B%20AI-7c3aed?style=flat-square" alt="Made with love"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20Embedded%20C%20%2B%20AI-7c3aed?style=flat-square" alt="Made with love"/></a>
 
 </div>
