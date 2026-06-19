@@ -24,12 +24,12 @@
 <a href="https://github.com/NITHISHPUJARI">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=NITHISHPUJARI&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://komarev.com/ghpvc/?username=NITHISHPUJARI&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/></a>
 
 <br/><br/>
 
 <!-- ▓▓▓  PROFILE SUMMARY GLASS CARD  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:312e81&height=3&section=header" width="80%"/>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,100:312e81&height=3&section=header" width="80%"/></a>
 
 </div>
 
@@ -202,7 +202,7 @@ Superpower  : Bridging silicon-level hardware with cutting-edge AI
 
 ### 🌐 Enterprise Agentic AI Platform
 
-<img src="https://img.shields.io/badge/Scale-$80B+_Annual_Circulation-FFD700?style=flat-square&logo=microsoft-azure"/>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Scale-$80B+_Annual_Circulation-FFD700?style=flat-square&logo=microsoft-azure"/></a>
 
 **Autonomous AI for Critical Finance Ops**
 
@@ -215,7 +215,7 @@ Engineered agentic AI workflows using **Microsoft Foundry** + **Vector Databases
 
 ### 🤖 ARM Robotics Navigation System
 
-<img src="https://img.shields.io/badge/Hardware-STM32G070RB_ARM-03234B?style=flat-square&logo=stmicroelectronics"/>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Hardware-STM32G070RB_ARM-03234B?style=flat-square&logo=stmicroelectronics"/></a>
 
 **Wireless + RFID + Multi-Sensor Robot**
 
@@ -228,7 +228,7 @@ Full-stack embedded system featuring Bluetooth wireless control, obstacle avoida
 
 ### 🌡 COVID Safety Thermal Scanner
 
-<img src="https://img.shields.io/badge/Purpose-Health_%26_Safety-10B981?style=flat-square&logo=arduino"/>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://img.shields.io/badge/Purpose-Health_%26_Safety-10B981?style=flat-square&logo=arduino"/></a>
 
 **Automated Temperature Access Control**
 
@@ -248,17 +248,17 @@ IoT entrance system using temperature sensors for automated entry control — gr
 
 ## 📊 &nbsp;`< GitHub Analytics />`&nbsp; 📊
 
-<img src="https://github-readme-stats.vercel.app/api?username=NITHISHPUJARI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&border_radius=16" width="48%" alt="GitHub Stats"/>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://github-readme-stats.vercel.app/api?username=NITHISHPUJARI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&border_radius=16" width="48%" alt="GitHub Stats"/></a>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NITHISHPUJARI&theme=tokyonight&hide_border=true&background=0d0d2b&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&border_radius=16" width="48%" alt="GitHub Streak"/>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://github-readme-streak-stats.herokuapp.com?user=NITHISHPUJARI&theme=tokyonight&hide_border=true&background=0d0d2b&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&border_radius=16" width="48%" alt="GitHub Streak"/></a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHISHPUJARI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=a78bfa&text_color=c4b5fd&border_radius=16" width="40%" alt="Top Languages"/>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHISHPUJARI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d2b&title_color=a78bfa&text_color=c4b5fd&border_radius=16" width="40%" alt="Top Languages"/></a>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NITHISHPUJARI&theme=tokyo-night&hide_border=true&bg_color=0d0d2b&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=312e81" width="96%" alt="Activity Graph"/>
+<a href="https://github.com/NITHISHPUJARI"><img src="https://github-readme-activity-graph.vercel.app/graph?username=NITHISHPUJARI&theme=tokyo-night&hide_border=true&bg_color=0d0d2b&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=312e81" width="96%" alt="Activity Graph"/></a>
 
 </div>
 
