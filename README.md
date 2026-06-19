@@ -300,14 +300,27 @@ Competed in the **Drone Voyage** inter-college spotlight event organized by STEP
 
 ---
 
-<!-- ░░░  GITHUB TROPHIES  ░░░ -->
+<!-- ░░░  PROFILE SUMMARY CARDS  ░░░ -->
 
 <div align="center">
 
-## 🏅 &nbsp;GitHub Trophies
+## 📈 &nbsp;Profile Deep Dive
 
 <a href="https://github.com/NITHISHPUJARI">
-<img src="https://github-profile-trophy.vercel.app/?username=NITHISHPUJARI&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NITHISHPUJARI&theme=tokyonight" width="32%" alt="Repos Per Language"/>
+</a>
+<a href="https://github.com/NITHISHPUJARI">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NITHISHPUJARI&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+</a>
+<a href="https://github.com/NITHISHPUJARI">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NITHISHPUJARI&theme=tokyonight" width="32%" alt="Stats"/>
+</a>
+
+<a href="https://github.com/NITHISHPUJARI">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NITHISHPUJARI&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time"/>
+</a>
+<a href="https://github.com/NITHISHPUJARI">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NITHISHPUJARI&theme=tokyonight" width="49%" alt="Profile Details"/>
 </a>
 
 </div>
