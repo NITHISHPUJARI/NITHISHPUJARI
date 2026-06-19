@@ -227,6 +227,11 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
 <a href="#!"><img src="https://img.shields.io/badge/STM32Cube%20IDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32Cube"/></a>
 <a href="#!"><img src="https://img.shields.io/badge/Agile%20%2F%20SDLC-FF6B35?style=for-the-badge" alt="Agile"/></a>
 
+### ⚙️ &nbsp;Operating Systems & Engineering Tools
+<a href="#!"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/MATLAB-007672?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360"/></a>
+
 </div>
 
 ---
@@ -243,6 +248,17 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
 <tr>
 <td width="50%" valign="top">
 
+### 📱 &nbsp;DhanLaXmi — Mobile AI Wallet & Advisor
+<a href="#!"><img src="https://img.shields.io/badge/Platform-iOS%20%2F%20SwiftUI-000000?style=flat-square&logo=swift" alt="Platform"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/AI-Local%20SLM%20(Gemma)-7C3AED?style=flat-square" alt="AI"/></a>
+
+Private mobile AI financial wallet and advisor. Integrates a local SLM (Gemma-2B) for offline inference, RAG architecture for context-aware financial advice, and a premium liquid glass UI.
+
+`SwiftUI` · `Gemma.cpp` · `RAGStore` · `Local Vector Search` · `CoreData`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🌐 &nbsp;Enterprise Agentic AI Platform
 <a href="#!"><img src="https://img.shields.io/badge/🏦_Scale-$80B%2B_Annual_Circulation-FFD700?style=flat-square&logo=microsoft-azure" alt="Scale"/></a>
 <a href="#!"><img src="https://img.shields.io/badge/Status-Production-00C851?style=flat-square" alt="Status"/></a>
@@ -252,6 +268,19 @@ Designed end-to-end **Agentic AI systems** on Microsoft Foundry that autonomousl
 Applied **Prompt Engineering** to eliminate hallucination and ensure LLM responses meet strict financial compliance thresholds.
 
 `Microsoft Foundry` · `Python` · `Vector DB` · `Azure DevOps` · `LLM`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐱 &nbsp;Royal Paw Kitten — 3D & AI Breed Care
+<a href="https://royalpawkitten.com/" target="_blank"><img src="https://img.shields.io/badge/Live-royalpawkitten.com-10B981?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Site"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Solo%20Developed-100%25-FF6B6B?style=flat-square" alt="Solo Developed"/></a>
+
+Complete interactive breed care platform featuring interactive 3D graphics (Three.js), data visualizations (Recharts), and generative AI assistants (`@google/genai` Gemini API) with Express backend. Fully self-designed and implemented.
+
+`React 19` · `Vite 6` · `Three.js` · `Tailwind v4` · `Recharts` · `Gemini API` · `Express`
 
 </td>
 <td width="50%" valign="top">
@@ -269,16 +298,6 @@ Full embedded system featuring **Bluetooth wireless control**, RFID-secured acce
 <tr>
 <td width="50%" valign="top">
 
-### 🌡 &nbsp;COVID Safety Thermal Access System
-<a href="#!"><img src="https://img.shields.io/badge/🏥_Purpose-Health_%26_Safety_Automation-10B981?style=flat-square&logo=arduino" alt="Purpose"/></a>
-
-IoT entrance gate that uses a **thermal sensor** to measure body temperature at doorways. Access is granted/denied automatically — no human touchpoint needed. Built during COVID for a real health-safety use case.
-
-`Arduino UNO` · `C` · `Temperature Sensor` · `Relay Module` · `IoT`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🚁 &nbsp;Drone Voyage — Competition Winner
 <a href="#!"><img src="https://img.shields.io/badge/🏆_Result-3rd_Place-FFD700?style=flat-square" alt="Result"/></a>
 <a href="#!"><img src="https://img.shields.io/badge/Event-STEP_CONE_at_GMRIT-7C3AED?style=flat-square" alt="Event"/></a>
@@ -286,6 +305,17 @@ IoT entrance gate that uses a **thermal sensor** to measure body temperature at 
 Competed in the **Drone Voyage** inter-college spotlight event organized by STEP CONE at GMR Institute of Technology — securing **3rd place** in autonomous drone control and navigation challenges.
 
 `Drone Systems` · `Autonomous Navigation` · `Competition`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ &nbsp;Smart Green Campus Grid Optimizer
+<a href="#!"><img src="https://img.shields.io/badge/Academic-B.Tech%20Capstone-007672?style=flat-square&logo=mathworks" alt="Academic"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Tool-MATLAB%20%2F%20Simulink-007672?style=flat-square" alt="Tool"/></a>
+
+"Optimal Sizing of Renewable Energy Sources for a Smart Campus". Designed a genetic algorithm and heuristic optimization model in MATLAB/Simulink to minimize power grid dependence and maximize clean energy consumption.
+
+`MATLAB` · `Simulink` · `Optimization Algorithms` · `Renewable Integration`
 
 </td>
 </tr>
@@ -406,6 +436,28 @@ Competed in the **Drone Voyage** inter-college spotlight event organized by STEP
 
 </td>
 </tr>
+<tr>
+<td align="center" width="50%">
+
+### ⚡ Skill-Lync EV Workshop
+**Electric Vehicle Components & Fundamentals**
+
+<a href="https://skill-lync.com/certification/workshop/uwptqxrzs7" target="_blank">
+<img src="https://img.shields.io/badge/Certification-View%20Credential%20%F0%9F%94%97-7C3AED?style=for-the-badge" alt="EV Workshop Badge"/>
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### 📚 LinkedIn Credentials
+**Explore More Verified Course Certifications**
+
+<a href="https://linkedin.com/in/myselfnithish/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-View%20All-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -425,6 +477,7 @@ Competed in the **Drone Voyage** inter-college spotlight event organized by STEP
 🏫 **GMR Institute of Technology, Rajam**
 B.Tech — Electrical & Electronics Engineering
 `CGPA: 63.8%`
+<br/><sub><b>Capstone:</b> Optimal Sizing of Renewable Energy Sources for a Smart Campus</sub>
 
 </td>
 <td align="center" width="50%">
