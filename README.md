@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-myselfnithish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
+<a href="Pujari_NithishKumar_Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download_PDF-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+</a>
+&nbsp;
 <a href="https://github.com/NITHISHPUJARI">
   <img src="https://img.shields.io/badge/GitHub-NITHISHPUJARI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
