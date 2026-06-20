@@ -248,13 +248,13 @@ My technical foundation was built in **Embedded Systems**, programming ARM Corte
 <tr>
 <td width="50%" valign="top">
 
-### 📱 &nbsp;DhanLaXmi — Mobile AI Wallet & Advisor
-<a href="#!"><img src="https://img.shields.io/badge/Platform-iOS%20%2F%20SwiftUI-000000?style=flat-square&logo=swift" alt="Platform"/></a>
-<a href="#!"><img src="https://img.shields.io/badge/AI-Local%20SLM%20(Gemma)-7C3AED?style=flat-square" alt="AI"/></a>
+### 📱 &nbsp;DhanLaXmi — Secure On-Device AI Wallet
+<a href="#!"><img src="https://img.shields.io/badge/Platform-Cross--Platform%20%2F%20Capacitor-000000?style=flat-square" alt="Platform"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/AI-AFM%20%2F%20Gemma%203%201B-7C3AED?style=flat-square" alt="AI"/></a>
 
-Private mobile AI financial wallet and advisor. Integrates a local SLM (Gemma-2B) for offline inference, RAG architecture for context-aware financial advice, and a premium liquid glass UI.
+Secure on-device AI financial advisor and wallet optimizer. Dynamically routes queries to use native Apple Foundation Models (AFM) on Apple Intelligence supported devices, falling back to a local Google Gemma 3 1B model on non-Apple Intelligence systems.
 
-`SwiftUI` · `Gemma.cpp` · `RAGStore` · `Local Vector Search` · `CoreData`
+`Capacitor` · `ONNX Runtime` · `Apple AFM` · `Gemma 3` · `Local RAG` · `SecureStorage`
 
 </td>
 <td width="50%" valign="top">
