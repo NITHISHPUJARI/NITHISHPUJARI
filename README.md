@@ -26,9 +26,7 @@
   <img src="https://img.shields.io/badge/Resume-Download-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
 </a>
 &nbsp;
-<a href="https://nithishpujari.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-nithishpujari.github.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-nithishpujari.github.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nithishpujari.github.io)
 &nbsp;
 <a href="https://github.com/NITHISHPUJARI">
   <img src="https://img.shields.io/badge/GitHub-NITHISHPUJARI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
