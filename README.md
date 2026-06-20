@@ -14,25 +14,7 @@
 <br/><br/>
 
 <!-- ░░░  CONTACT STRIP  ░░░ -->
-<a href="mailto:nithishkumarpujari@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-nithishkumarpujari%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/myselfnithish/">
-  <img src="https://img.shields.io/badge/LinkedIn-myselfnithish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://raw.githubusercontent.com/NITHISHPUJARI/NITHISHPUJARI/main/Pujari_NithishKumar_Resume.pdf" download>
-  <img src="https://img.shields.io/badge/Resume-Download-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
-</a>
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-nithishpujari.github.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nithishpujari.github.io)
-&nbsp;
-<a href="https://github.com/NITHISHPUJARI">
-  <img src="https://img.shields.io/badge/GitHub-NITHISHPUJARI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="#!"><img src="https://komarev.com/ghpvc/?username=NITHISHPUJARI&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-nithishkumarpujari%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishkumarpujari@gmail.com) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-myselfnithish-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/myselfnithish/) &nbsp; [![Resume](https://img.shields.io/badge/Resume-Download-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/NITHISHPUJARI/NITHISHPUJARI/main/Pujari_NithishKumar_Resume.pdf) &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-nithishpujari.github.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nithishpujari.github.io) &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-NITHISHPUJARI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NITHISHPUJARI) &nbsp; [![Profile Views](https://komarev.com/ghpvc/?username=NITHISHPUJARI&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://komarev.com/ghpvc/?username=NITHISHPUJARI&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 <br/><br/>
 
