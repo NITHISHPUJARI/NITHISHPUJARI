@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ░░░  HERO BANNER  ░░░ -->
-<a href="#!"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:030318,30:0f0f3d,65:1e1b6e,100:7c3aed&height=240&section=header&text=NITHISH%20KUMAR&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20%26%20GenAI%20Specialist%20%7C%20Background%20in%20Embedded%20Systems&descAlignY=60&descSize=16&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%"/></a>
+<a href="#!"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:030318,30:0f0f3d,65:1e1b6e,100:7c3aed&height=240&section=header&text=NITHISH%20KUMAR&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20and%20GenAI%20Specialist%20%7C%20Background%20in%20Embedded%20Systems&descAlignY=60&descSize=16&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%"/></a>
 
 <!-- ░░░  DYNAMIC TYPING  ░░░ -->
 <br/>
