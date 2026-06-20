@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- ░░░  HERO BANNER  ░░░ -->
-<a href="#!"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:030318,30:0f0f3d,65:1e1b6e,100:7c3aed&height=240&section=header&text=NITHISH%20KUMAR&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%7C%20Embedded%20Systems%20%7C%20LLM%20Specialist&descAlignY=60&descSize=16&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%"/></a>
+<a href="#!"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:030318,30:0f0f3d,65:1e1b6e,100:7c3aed&height=240&section=header&text=NITHISH%20KUMAR&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20%26%20GenAI%20Specialist%20%7C%20Background%20in%20Embedded%20Systems&descAlignY=60&descSize=16&animation=fadeIn&stroke=a78bfa&strokeWidth=2" width="100%"/></a>
 
 <!-- ░░░  DYNAMIC TYPING  ░░░ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=750&height=50&lines=%F0%9F%A4%96+Designing+AI+agents+for+%2480B%2B%2B+enterprise+platform%3B%E2%9A%99%EF%B8%8F+ARM+Cortex-M+%7C+FreeRTOS+%7C+BareMetal+C%2FC%2B%2B%3B%F0%9F%A7%A0+Prompt+Engineering+%7C+Vector+DB+%7C+Microsoft+Foundry%3B%F0%9F%94%8C+UART+%7C+SPI+%7C+I2C+%7C+HAL+%7C+STM32+%7C+Linux+Drivers%3B%F0%9F%9A%80+Silicon+meets+Intelligence+%E2%80%94+one+commit+at+a+time" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=750&height=50&lines=%F0%9F%A4%96+Designing+AI+agents+for+%2480B%2B%2B+enterprise+platform%3B%F0%9F%A7%A0+Prompt+Engineering+%7C+Vector+DB+%7C+Microsoft+Foundry%3B%F0%9F%94%AE+LLM+Optimization+%7C+Semantic+Search+%7C+Local+SLMs%3B%E2%9A%99%EF%B8%8F+Prior+Exp%3A+ARM+Cortex-M+%7C+FreeRTOS+%7C+BareMetal+C%3B%F0%9F%9A%80+Silicon+meets+Intelligence+%E2%80%94+one+commit+at+a+time" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -45,15 +45,15 @@
 
 <div align="center">
 
-### `< I build systems that think autonomously and run on hardware that never sleeps />`
+### `< I architect autonomous AI agents and intelligent systems at enterprise scale />`
 
 </div>
 
-I am a **dual-domain engineer** at the intersection of **silicon and intelligence** — equally at home designing register-level bare-metal firmware for ARM Cortex-M microcontrollers and architecting enterprise-grade Agentic AI systems on Microsoft Azure.
+I am an **Agentic AI Engineer** specializing in enterprise-grade autonomous agents and large language model architectures on Microsoft Azure, backed by a strong foundation in register-level bare-metal Embedded C and real-time systems.
 
-Currently at **Accenture**, I engineer autonomous AI agents and Generative AI pipelines for a platform that circulates **over $80 Billion annually** — where every prompt, every vector retrieval, and every LLM response has real-world financial consequence.
+Currently at **Accenture**, I engineer autonomous AI agents and Generative AI pipelines for an enterprise platform that circulates **over $80 Billion annually** — where every prompt, every vector retrieval, and every LLM response has real-world financial consequence.
 
-Before AI, I honed my craft in **Embedded Systems** — writing C from scratch on STM32 silicon, wrestling FreeRTOS schedulers, and reading oscilloscope traces. That foundation in precision, determinism, and resource constraints is what makes my AI work different.
+My technical foundation was built in **Embedded Systems**, programming ARM Cortex-M microcontrollers and RTOS schedulers. This background in low-level precision, resource constraints, and determinism shapes my approach to architecting highly optimized and robust Agentic AI architectures.
 
 ---
 
@@ -96,13 +96,13 @@ Before AI, I honed my craft in **Embedded Systems** — writing C from scratch o
 
 </div>
 
-**On the AI side:**
+**AI & Intelligent Systems Engineering:**
 - Deployed **Agentic AI workflows** on Microsoft Foundry that automate critical financial operations — replacing multi-step human processes with deterministic agent chains
 - Built **Vector Database retrieval pipelines** for semantic search across massive enterprise datasets, enabling sub-second context-aware lookups
 - Applied **advanced Prompt Engineering** to optimize LLM outputs for precision and safety in high-stakes financial environments
 - Conducted full-lifecycle **defect validation** on AI systems using Azure DevOps — every agent behavior has an audit trail
 
-**On the Embedded side:**
+**Foundational Embedded & Low-Level Experience:**
 - Programmed **ARM Cortex-M** microcontrollers at the register level — GPIO, timers, NVIC interrupts, DMA, and peripheral buses (UART/I2C/SPI)
 - Built **FreeRTOS-based systems** with task scheduling, mutexes, semaphores, and inter-task communication
 - Developed **Linux kernel space device drivers** — from character devices to platform drivers
@@ -534,10 +534,10 @@ Class X — SSC
 
 <br/>
 
-> *"The best engineers understand both the bit and the billion."*
+> *"Applying low-level precision to enterprise-scale intelligence."*
 >
-> I write code that runs on **48MHz silicon** and thinks at **LLM scale**.
-> Precision at the register. Intelligence at the prompt.
+> I architect Agentic AI systems that run on high-performance cloud infrastructure and local SLMs.
+> Precision at the prompt. Optimization at the core.
 
 <br/>
 
@@ -559,6 +559,6 @@ Class X — SSC
 
 **`⚡ Turning silicon into intelligence — one commit at a time ⚡`**
 
-<a href="#!"><img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20Embedded%20C%20%2B%20AI-7c3aed?style=flat-square" alt="Made with love"/></a>
+<a href="#!"><img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20Agentic%20AI%20%2B%20Silicon-7c3aed?style=flat-square" alt="Made with love"/></a>
 
 </div>
